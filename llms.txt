@@ -1,9 +1,5 @@
 # endeavr
 
-Modification
-
-second modification
-
 The endeavr package is an example package to test out various
 functionalities of Rstudio as part of the EndeavR short course at the
 university of Bordeaux.
@@ -23,6 +19,7 @@ pak::pak("arthurhughes27/endeavr")
 ## All functions
 
 - [`mvnpdf()`](https://arthurhughes27.github.io/endeavr/reference/mvnpdf.md)
+  [`mvnpdfsmart()`](https://arthurhughes27.github.io/endeavr/reference/mvnpdf.md)
   : Multivariate normal distribution probability density function
   compute the value of the density of a multivariate normal distribution
   on at n points.
